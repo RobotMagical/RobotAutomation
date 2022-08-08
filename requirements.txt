@@ -1,0 +1,7 @@
+robotframework==4.0
+robotframework-seleniumlibrary==5.1.3
+robotframework-seleniumtestability==1.1.0
+webdrivermanager==0.10.0
+robotframework-datadriver[XLS]
+robotframework-databaselibrary
+cx-Oracle==8.2.1
