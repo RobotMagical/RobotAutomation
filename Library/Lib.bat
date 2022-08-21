@@ -6,3 +6,4 @@ pip install robotframework-seleniumtestability==1.1.0
 pip install selenium==3.141.0
 pip install openpyxl==3.0.7
 pip install cx-Oracle==8.2.1
+pip install allure-robotframework
