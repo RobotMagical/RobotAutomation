@@ -14,7 +14,7 @@ Consumer account creation with ID:${ID}
 consumer_account
     [Arguments]  ${CUSTOMER_TYPE}	${ID}	${EID_NUM}    ${TITLE}    ${FIRST_NAME}	 ${LAST_NAME}	${NATIONALITY}	${EMAIL}	${BILL_LANG}    ${PREF_DELIVERY_METHOD}
 
-    Launch Application
+    #Launch Application
     Login with MRAWDHA User     CONSUMER
     Navigate to Consumer account
     Enter consumer account information  ${CUSTOMER_TYPE}
